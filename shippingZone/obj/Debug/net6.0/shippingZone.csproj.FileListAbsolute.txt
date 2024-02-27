@@ -1,0 +1,15 @@
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\bin\Debug\net6.0\shippingZone.exe
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\bin\Debug\net6.0\shippingZone.deps.json
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\bin\Debug\net6.0\shippingZone.runtimeconfig.json
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\bin\Debug\net6.0\shippingZone.dll
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\bin\Debug\net6.0\shippingZone.pdb
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.csproj.AssemblyReference.cache
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.AssemblyInfoInputs.cache
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.AssemblyInfo.cs
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.csproj.CoreCompileInputs.cache
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.dll
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\refint\shippingZone.dll
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.pdb
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\shippingZone.genruntimeconfig.cache
+P:\Projets_perso\Csharp_delegates_events\shippingZone_delegates\shippingZone\obj\Debug\net6.0\ref\shippingZone.dll
